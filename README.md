@@ -1,7 +1,10 @@
 # teko-test
 
 # Run api gateway
-node api_gateway.js
+nodemon api_gateway.js
+# Run service 1 and 2
+node app.js
+
 
 # API Gateway architecture
 ![alt text](image/basicmodel.png)
