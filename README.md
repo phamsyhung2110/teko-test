@@ -1,16 +1,16 @@
-# teko-test
+# Teko DevOps Test
 
-# Run api gateway
+## Run api gateway
 nodemon api_gateway.js
-# Run service 1 and 2
+## Run service 1 and 2
 node app.js
 
 
-# API Gateway architecture
+## API Gateway architecture
 ![alt text](image/basicmodel.png)
 
-# Scaling and clustering
+## Scaling and clustering
 ![alt text](image/scaling.png)
 
-## Deploy in Kubernetes
+### Deploy in Kubernetes
 ![alt text](image/k8s-scaling.png)
